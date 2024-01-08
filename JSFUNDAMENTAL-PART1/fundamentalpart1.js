@@ -12,7 +12,7 @@ age = 36;
 let a = 0, b = 0, c = 0;
 console.log(a, b, c);
 const sum = 123.1234
-console.log(sum.tofixed(1));
+
 
 
 // Type COnversion
